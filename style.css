@@ -1,0 +1,36 @@
+#choice{
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+        
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.iframe-container{
+    max-width:600px;
+    margin: 0 auto;
+    width:100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 100px;
+}
+
+#frame{
+    width:100%;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
